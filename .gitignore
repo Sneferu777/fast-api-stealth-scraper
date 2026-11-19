@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data Exports & Databases
+#*.csv
+*.db
+*.sqlite3
+*.jsonl
+
+# OS generated files
+.DS_Store
